@@ -28,4 +28,4 @@ if __name__ == '__main__':
     s.readStocksMentioned()  # Populate stocks_mentioned dictionary with .csv items
     # a.prepare_Anomalies()  # Populate option value for SPY friday option chain
 
-    bot.run(os.getenv('DISCORD_TOKEN'))
+    bot.run(os.getenv('Nzk2MTcwMjc2NjY4NDQwNTg2.X_UBWg.WaW8Nj-bilb_ic309690q4kjtE4'))
